@@ -1,6 +1,11 @@
 # Next.js blog
 This application was built while self-teaching the Next.js framework. I did not write the blog posts. [Build your own](https://nextjs.org/learn/foundations/about-nextjs).
 
+## Resources
+[Deployed Site](https://nextjs-blog-rouge-nu-65.vercel.app/)
+[GitHub Repo](https://github.com/justenanderson-commits/nextjs-blog)
+
+
 ## Contributor
 - [Justen Anderson](https://github.com/justenanderson-commits)
 
